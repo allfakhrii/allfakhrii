@@ -49,3 +49,4 @@ Welcome to my GitHub profile! I am an undergraduate Data Science student and a F
 
 ### 📫 How to Reach Me
 - 📧 Email: alfakhrii323@gmail.com
+- 📧 Linkedin: Fatih Al-Fakhri Muhammad
