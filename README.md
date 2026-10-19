@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am an undergraduate Data Science student and a F
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Manajemen Toko** (an e-commerce platform & dashboard).
-- 💻 Founder & Front-End Developer at **Landexafy**.
+- 💻 Full-Stack Developer at **Landexafy**.
+- 💻 Data & IT Specialist at **JP&CO**.
 - 🛠️ Actively programming in **Go, Python, React, and Tailwind CSS**.
 - 📊 Experienced in data analysis using **Pandas** and managing database lifecycles.
 
