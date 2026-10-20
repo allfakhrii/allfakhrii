@@ -1,6 +1,6 @@
 # Hi, I'm Al-Fakhri 👋
 
-Welcome to my GitHub profile! I am an undergraduate Data Science student and a Front-End Developer passionate about building clean web applications and analyzing data.
+Welcome to my GitHub profile! I am an undergraduate Data Science student and a Full-Stack Developer passionate about building clean web applications and analyzing data.
 
 ---
 
