@@ -1,52 +1,49 @@
-# Hi, I'm Al-Fakhri 👋
+## Systems profile
 
-Welcome to my GitHub profile! I am an undergraduate Data Science student and a Full-Stack Developer passionate about building clean web applications and analyzing data.
-
----
-
-### 🚀 About Me
-- 💻 Full-Stack Developer at **Landexafy**.
-- 💻 Data & IT Specialist at **JP&CO**.
-- 🛠️ Actively programming in **Go, Python, React, and Tailwind CSS**.
-- 📊 Experienced in data analysis using **Pandas** and managing database lifecycles.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Front-End Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=allfakhrii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215516864%3Fu%3Df1c5f396f7d9638d535f3cd23e561040a45cee67%26v%3D4" alt="allfakhrii hero visual" />
 </p>
 
-#### ⚙️ Back-End & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+**Al-Fakhri** · Frontend or full-stack engineer
+
+## Runtime notes
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 17
+COMMUNITY   = 3 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Service toolkit
+
+<p><code>allfakhrii@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=allfakhrii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215516864%3Fu%3Df1c5f396f7d9638d535f3cd23e561040a45cee67%26v%3D4" alt="allfakhrii stack visual" />
 </p>
 
-#### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## System signals
+
+<table>
+<tr><td align="center"><b>17</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>128</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [Tim-Rudal](https://github.com/allfakhrii/Tim-Rudal) — TypeScript · 1 stars
+- [prototype-toko](https://github.com/allfakhrii/prototype-toko) — JavaScript · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=allfakhrii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215516864%3Fu%3Df1c5f396f7d9638d535f3cd23e561040a45cee67%26v%3D4" alt="allfakhrii heatmap visual" />
 </p>
 
----
+## Open a channel
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allfakhrii&theme=tokyonight" alt="Al-Fakhri's GitHub Stats" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=allfakhrii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215516864%3Fu%3Df1c5f396f7d9638d535f3cd23e561040a45cee67%26v%3D4" alt="allfakhrii social visual" />
 </p>
 
----
+<a href="https://github.com/allfakhrii">GitHub</a>
 
-### 📫 How to Reach Me
-- 📧 Email: alfakhrii323@gmail.com
-- 📧 Linkedin: Fatih Al-Fakhri Muhammad
+<p align="center"><sub>Al-Fakhri · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
