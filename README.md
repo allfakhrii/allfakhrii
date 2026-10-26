@@ -45,5 +45,6 @@ Building useful things and learning in public.
 </p>
 
 <a href="https://github.com/allfakhrii">GitHub</a>
+<a href="https://github.com/allfakhrii">GitHub</a>
 
 <p align="center"><sub>Al-Fakhri · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
